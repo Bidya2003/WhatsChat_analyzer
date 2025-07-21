@@ -23,5 +23,6 @@ vaderSentiment
 scikit-learn
 nltk
 spacy
+geopy
 
 
