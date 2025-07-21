@@ -25,4 +25,7 @@ nltk
 spacy
 geopy
 
+#ner_py
+folium
+
 
